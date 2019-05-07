@@ -33,7 +33,7 @@
 .counter .top_process { padding:10px; padding-top:0px; }
 .top_icon { text-align:center; margin-bottom:20px; }
 .top_process { padding:30px; padding-top:0px; }
-.top_process dt { font-weight:bold; padding:5px 0 13px 0; text-align:center; color:#3497c0; font-size:16px; }
+.top_process dt {font-weight: 600;padding:5px 0 13px 0;text-align:center;color:#3497c0;font-size: 17px;}
 .top_process dd { border-bottom:1px solid #ccc; padding:5px 4px 5px 4px; overflow:hidden;  }
 .top_process dd.last { border-bottom:0px; }
 .pub_icon01 { background:url(../img/process_icon01.jpg) no-repeat; padding-left:20px; height:20px; }
@@ -74,6 +74,6 @@
 .n_ico02 { background:url(../img/notice_icon02.jpg) no-repeat; }
 .notice_list { margin-top:20px; }
 .notice_list li { overflow:hidden; margin-bottom:8px; }
-.notice_head { color:#666666; }
+.notice_head { color:#666666; margin-bottom:4px; }
 .notice_date { color:#999999; font-size:13px; }
 .notice_more { position:absolute; top:10px; right:10px; }
