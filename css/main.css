@@ -24,10 +24,10 @@
 .login_consult dd { color:#005274; font-weight:bold; font-size:18px;float: left;}
 
 /* main contents */
-.main_container { width:940px; min-height:700px; margin:50px auto; position:relative; }
+.main_container {width: 1200px;min-height:700px;margin:50px auto;position:relative;}
 .main_container:after { content:""; display:block; clear:both; }
 .main_top {height: 360px; background:#e3f6fc; border:1px solid #ddd;margin-bottom: 12px; padding:30px 5px 30px 5px;}
-.ifms_public { width:205px; height:330px; float:left; margin-right:5px; padding:5px; border-right:1px solid #dddddd; }
+.ifms_public {width: 24.5555%;height:330px;float:left;margin-right:5px;padding:5px;border-right:1px solid #dddddd;}
 .ifms_public.last { margin-right:0px; border-right:0px; }
 .counter { width:240px; }
 .counter .top_process { padding:10px; padding-top:0px; }
@@ -52,7 +52,7 @@
 .gray { background:#7b7b7b; }
 .yellow { background:#f8ac59; }
 
-.ifms_box { background:#f9f9f9; width:243px; height:250px; float:left; margin-right:12px; padding:30px; border:1px solid #dddddd; position:relative; }
+.ifms_box {background:#f9f9f9;width: 27.5%;height:250px;float:left;margin-right:12px;padding:30px;border:1px solid #dddddd;position:relative;}
 .ifms_box.last { margin-right:0px; }
 .customer { background:#16aab8; }
 .customer_h { color:#ffffff; }
