@@ -36,7 +36,7 @@ input[type=text] { font-family:"Malgun Gothic", sans-serif; }
 /* footer */
 .footer { background:#f5f5f5; border-top:1px solid #cccccc; }
 .footer:after { content:""; display:block; clear:both; }
-.ifms_foot { width:940px; margin:0 auto; padding:30px; }
+.ifms_foot { width:1200px; margin:0 auto; padding:30px; }
 .foot_lnb li { float:left; font-size:12px; border-right:1px solid #666666; padding:0 10px 0 10px; text-align:center; }
 .foot_lnb li.last { border-right:0px; }
 .foot_top, .foot_bottom { overflow:hidden; padding-bottom:20px; }
