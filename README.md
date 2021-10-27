@@ -6,6 +6,7 @@
 구현결과 : https://pandersnoh.github.io/ifms/
 
 ## 작업개요
+- 제작년도 : 2015년
 - 활용언어 : HTML5, CSS3, JavaScript
 - 제작사항 : HTML5 시멘틱 마크업, CSS, JavaScript-jQuery를 활용한 모달 팝업 구현, 크로스브라우징을 고려한 셀렉트박스 구현
 - 작업기여도 : 퍼블리싱 100% / 스크립트 100%
