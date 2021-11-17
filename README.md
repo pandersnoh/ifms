@@ -3,7 +3,7 @@
 클릭 시 나오는 팝업창이나 각종 옵션들도 기능을 제외하면<br/>
 시연이 가능한 수준으로 구현하였습니다.
 
-구현결과 : https://pandersnoh.github.io/ifms/
+구현결과 : https://thirsty-bhaskara-faef7b.netlify.app/
 
 ## 작업개요
 - 제작년도 : 2015년
